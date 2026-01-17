@@ -1,4 +1,4 @@
-Print("Project Lazarus 29.12.25")
+
 -- Services
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
